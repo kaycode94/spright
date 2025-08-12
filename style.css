@@ -1085,7 +1085,7 @@ hr{
 
 
     .packages-container{
-        gap: 5rem 2rem;
+        gap: 5rem 0;
         margin: 40px;
     }
     .popup-form {
@@ -1225,6 +1225,7 @@ hr{
         left: 50%;
     }
 }
+
 
 
 
