@@ -1159,8 +1159,14 @@ hr{
     .about-container{
         padding: 10px;
     }
+    .abt-top{
+        margin-left: 250px;
+    }
+    .abt-bottom{
+        margin-right: 250px;
+    }
     .timeline-container{
-        margin: 2rem;
+        margin: 1rem;
     }
 
     /* CONTACTS SECTION ........................................................................................
@@ -1187,7 +1193,7 @@ hr{
 
 
     .packages-container{
-        margin: 30px;
+        margin: 10px;
     }
     .popup-content {
         width: 320px;
@@ -1218,6 +1224,7 @@ hr{
         left: 50%;
     }
 }
+
 
 
 
