@@ -1,16 +1,13 @@
 // Header Background___________________________________________________________________________________________
 
 const Header = document.querySelector('.header');
-const logoName = document.querySelector('.logo-name');
 
 window.addEventListener( 'scroll', function(){
     if(this.scrollY > 20){
         Header.classList.add( 'bgColor' );
-        logoName.style.color = '#00b7ff';
     }
     else{
         Header.classList.remove( 'bgColor' )
-        logoName.style.color = '';
     }
 } )
 
