@@ -766,7 +766,7 @@ section{
     margin: 3px;
 }
 .awareness-2-left h1{
-    color: #575757;
+    color: #000;
     font-size: clamp(35px, 4vw, 60px);
     
 }
@@ -802,7 +802,7 @@ section{
 }
 .awareness-2-right-content h1{
     font-size: 25px;
-    color: #575757;
+    color: #000;
 }
 .awareness-2-right-content h2{
     font-size: 30px;
@@ -811,7 +811,7 @@ section{
 }
 .awareness-2-right-content h2 span{
     font-size: 20px;
-    color: #575757;
+    color: #000;
 }
 
 
@@ -1379,5 +1379,4 @@ hr{
         left: 50%;
     }
 }
-
 
