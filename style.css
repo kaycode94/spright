@@ -486,7 +486,7 @@ section{
     gap: 2rem;
 }
 .service img{
-    width: 60px;
+    width: 70px;
     background: #fff;
     padding: 8px;
     border-radius: 50px;
@@ -557,7 +557,7 @@ section{
 .packages h1{
     font-family: "Sulphur point", sans-serif;
     font-size: clamp(40px, 7vw, 50px);
-    font-weight: 600;
+    font-weight: 500;
     color: #007bff;
     text-align: center;
     padding: 40px 0;
@@ -565,7 +565,8 @@ section{
     position: relative;
 }
 .packages h1 span{
-    font-weight: 200;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
 }
 .packages h1::after{
     content: '';
@@ -1351,4 +1352,5 @@ hr{
         left: 50%;
     }
 }
+
 
